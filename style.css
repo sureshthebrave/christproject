@@ -1,0 +1,85 @@
+.ml
+{
+margin-left: 360px;
+}
+
+
+
+.bp-1
+{
+    background:url("images/ban.png") no-repeat;
+    height:500px;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.sl
+{
+    color: rgba(255, 255, 255, 0.581);
+    background: rgba(0, 0, 0, 0.455);
+    width: 70%;
+}
+
+.welcome
+{
+    text-align:end;
+}
+.icon
+{
+    font-size: 30px;
+    text-align:end;
+}
+
+.p{
+    text-align: center;
+}
+
+.last{
+    background:rgb(255, 217, 0);
+    height: 220px;
+    width: 100%;
+}
+
+
+
+
+
+.wbg
+{
+    background: url("images/wbg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 360px;
+    width: 100%;
+
+
+}
+
+  
+
+
+.fig H4{
+    margin-bottom: 40px;
+}
+
+.c{
+    margin-left: 50px;
+
+}
+
+.al{
+    margin-top: 40px;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+.ic
+{
+    font-size: 30px;
+
+}
